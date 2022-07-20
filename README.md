@@ -18,7 +18,7 @@
 - :computer_mouse: I like to play Lost Ark
 - :cookie: I attempt to learn new dessert recipes like macarons and cinnamon rolls
 - :tv: Anime, of course! Don't ask me about my top 5, there's too many. 
-- :desktop: Twitch streaming, eventually :) 
+- 🎥 Twitch streaming, eventually :) 
 #
 #### Connect with me :handshake:
 
