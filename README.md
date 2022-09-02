@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Sunny
 
 - :books:  I am a junior :art: major at Louisiana State University. Go Tigers :tiger:!
-- :desktop_computer: I am the chief UI/UX designer at Crimer, a software tech start-up.
+- :desktop_computer: I am the head of UI/UX design at Crimer, a software tech start-up.
 - :keyboard: I'm currently learning React with TypeScript to become a front end software engineer. 
 - :cat2: I have a tuxedo cat named Moony, follow her on IG @ moonyvu :two_hearts:
 #
