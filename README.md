@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sunny
 
-- :books:  I am a junior :art: major at Louisiana State University. Go Tigers :tiger:!
+- :books:  I am a sophomore computer science major at Louisiana State University. Go Tigers :tiger:!
 - :desktop_computer: I am the head of UI/UX design at Crimer, a software tech start-up.
 - :keyboard: I'm currently learning React with TypeScript to become a front end software engineer. 
 - :cat2: I have a tuxedo cat named Moony, follow her on IG @ moonyvu :two_hearts:
@@ -15,7 +15,7 @@
 - :cake: WIP Super Sweets | [Working File](https://www.figma.com/file/ylze9BpDaej4rpt8EjUEhB/Super-Sweets?node-id=0%3A1) | [Slightly Interactive Prototype](https://www.figma.com/proto/ylze9BpDaej4rpt8EjUEhB/Super-Sweets?page-id=0%3A1&node-id=63%3A991&viewport=300%2C48%2C0.26&scaling=scale-down&starting-point-node-id=4%3A2)
 #
 #### Hobbies :video_game:
-- :computer_mouse: I like to play Lost Ark
+- :computer_mouse: I like to play Persona 5
 - :cookie: I attempt to learn new dessert recipes like macarons and cinnamon rolls
 - :tv: Anime, of course! Don't ask me about my top 5, there's too many. 
 - 🎥 Twitch streaming, eventually :) 
