@@ -10,7 +10,6 @@
 - :white_check_mark: Learn data structures and algorithms and start interview prep 
 # 
 #### My Projects :hammer_and_wrench:
-- :open_file_folder: WIP [Portfolio](https://yimadeline.myportfolio.com/)
 - :blue_book: Bookmarked | [Working File](https://www.figma.com/file/WR9J7Fvi4RSjSCsIKAGYby/Bookmarked?node-id=0%3A1) | [Slightly Interactive Prototype](https://www.figma.com/proto/WR9J7Fvi4RSjSCsIKAGYby/Bookmarked?page-id=0%3A1&node-id=4%3A9&starting-point-node-id=4%3A9&scaling=min-zoom)
 - :cake: WIP Super Sweets | [Working File](https://www.figma.com/file/ylze9BpDaej4rpt8EjUEhB/Super-Sweets?node-id=0%3A1) | [Slightly Interactive Prototype](https://www.figma.com/proto/ylze9BpDaej4rpt8EjUEhB/Super-Sweets?page-id=0%3A1&node-id=63%3A991&viewport=300%2C48%2C0.26&scaling=scale-down&starting-point-node-id=4%3A2)
 #
