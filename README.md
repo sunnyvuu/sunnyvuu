@@ -2,12 +2,12 @@
 
 - :books:  I am a sophomore computer science major at Louisiana State University. Go Tigers :tiger:!
 - :desktop_computer: I am the head of UI/UX design at Crimer, a software tech start-up.
-- :keyboard: I'm currently learning React with TypeScript to become a front end software engineer. 
+- :keyboard: I'm currently learning React with TypeScript to develop my skills as a front end software engineer. 
 - :cat2: I have a tuxedo cat named Moony, follow her on IG @ moonyvu :two_hearts:
 #
-#### 2022 Goals :dart:
+#### 2023 Goals :dart:
 - :sparkles: Create a fully functional website for a fictional cat cafe using React following a design prototype I made in Figma 
-- :white_check_mark: Learn data structures and algorithms and start interview prep 
+- Develop a goal tracker app with a journaling reflection aspect
 # 
 #### My Projects :hammer_and_wrench:
 - :blue_book: Bookmarked | [Working File](https://www.figma.com/file/WR9J7Fvi4RSjSCsIKAGYby/Bookmarked?node-id=0%3A1) | [Slightly Interactive Prototype](https://www.figma.com/proto/WR9J7Fvi4RSjSCsIKAGYby/Bookmarked?page-id=0%3A1&node-id=4%3A9&starting-point-node-id=4%3A9&scaling=min-zoom)
@@ -17,7 +17,6 @@
 - :computer_mouse: I like to play Persona 5
 - :cookie: I attempt to learn new dessert recipes like macarons and cinnamon rolls
 - :tv: Anime, of course! Don't ask me about my top 5, there's too many. 
-- 🎥 Twitch streaming, eventually :) 
 #
 #### Connect with me :handshake:
 
