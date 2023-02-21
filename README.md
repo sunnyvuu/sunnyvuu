@@ -7,7 +7,7 @@
 #
 #### 2023 Goals :dart:
 - :sparkles: Create a fully functional website for a fictional cat cafe using React following a design prototype I made in Figma 
-- Develop a goal tracker app with a journaling reflection aspect
+- 📃 Develop a goal tracker app with a journaling reflection aspect
 # 
 #### My Projects :hammer_and_wrench:
 - :blue_book: Bookmarked | [Working File](https://www.figma.com/file/WR9J7Fvi4RSjSCsIKAGYby/Bookmarked?node-id=0%3A1) | [Slightly Interactive Prototype](https://www.figma.com/proto/WR9J7Fvi4RSjSCsIKAGYby/Bookmarked?page-id=0%3A1&node-id=4%3A9&starting-point-node-id=4%3A9&scaling=min-zoom)
