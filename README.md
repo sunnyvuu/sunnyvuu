@@ -21,7 +21,6 @@ UI/UX 🎨
 #### Hobbies :video_game:
 - :computer_mouse: I like to play Persona 5 Royal 
 - :tv: Anime but don't ask me about my top 5, there's too many
-- 🧶 Crocheting but it's taking some time to get the hang of
 - :ring: Crafting accessories using beads and wires
 #
 #### Connect with me :handshake:
